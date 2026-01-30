@@ -71,11 +71,6 @@ Este projeto consolidou conhecimentos em:
 - Comunidade Python Brasil
 - Todos os mantenedores das bibliotecas utilizadas
 
- ----
-
-## 📝 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
 ----
 
 👨‍💻 Autor :
@@ -84,7 +79,12 @@ Marcus Guedes
 GitHub: https://github.com/MCLG1661
 LinkedIn: https://www.linkedin.com/in/marcusguedes
 
+----
 
+## 📝 Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+----
 
 🌟 " O conhecimento é a única coisa que ninguém pode tirar de você. Explore, aprenda e compartilhe !"
 
