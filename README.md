@@ -83,9 +83,9 @@ Este projeto consolidou conhecimentos em:
 
 ## 🙏 Agradecimentos
 
-- Alura pela excelente imersão
-- Comunidade Python Brasil
-- Todos os mantenedores das bibliotecas utilizadas
+- A Alura pela excelente imersão
+- A Comunidade Python Brasil
+- A Todos os mantenedores das bibliotecas utilizadas
 
 ----
 
