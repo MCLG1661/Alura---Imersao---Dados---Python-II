@@ -23,6 +23,16 @@ Alura-Python-Com-Dados-II/
 
 ----
 
+🛠️ Tecnologias
+
+- Streamlit	para aplicações web em Python
+- Plotly para gráficos interativos
+- Pandas para manipulação e análise de dados
+- NumPy	Computação numérica
+- Python
+
+---- 
+
 ## ✨ Funcionalidades
 
 📈 Gráficos Interativos com Plotly - 🔍 Filtros Dinâmicos em tempo real - 📱 Design Responsivo para todos os dispositivos - 🎨 Visualização Profissional de dados - ⚡ Performance Otimizada com cache inteligente - 📊 Múltiplas Visualizações: barras, linhas, pizza, scatter plots - 💾 Upload de Arquivos (CSV, Excel)
@@ -78,11 +88,6 @@ Este projeto consolidou conhecimentos em:
 Marcus Guedes
 GitHub: https://github.com/MCLG1661
 LinkedIn: https://www.linkedin.com/in/marcusguedes
-
-----
-
-## 📝 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ----
 
