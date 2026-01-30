@@ -1,2 +1,4 @@
-# Alura---Imers-o---Dados---Python-II
-Dashboard interativo desenvolvido em Python durante a Imersão "Python com Dados II" da Alura.  Utiliza Streamlit para interface web e Plotly para gráficos interativos, permitindo análise dinâmica  e visualização profissional de dados com filtros em tempo real.
+## Dashboard de Análise de Dados
+
+Dashboard interativo desenvolvido em Python utilizando Streamlit e Plotly para visualização e análise de dados. 
+Parte do curso "Python com Dados II" da Alura, com gráficos dinâmicos, filtros interativos e visualização em tempo real.
