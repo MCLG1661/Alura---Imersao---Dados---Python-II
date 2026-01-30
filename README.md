@@ -35,7 +35,13 @@ Alura-Python-Com-Dados-II/
 
 ## ✨ Funcionalidades
 
-📈 Gráficos Interativos com Plotly - 🔍 Filtros Dinâmicos em tempo real - 📱 Design Responsivo para todos os dispositivos - 🎨 Visualização Profissional de dados - ⚡ Performance Otimizada com cache inteligente - 📊 Múltiplas Visualizações: barras, linhas, pizza, scatter plots - 💾 Upload de Arquivos (CSV, Excel)
+- 📈 Gráficos Interativos com Plotly
+- 🔍 Filtros Dinâmicos em tempo real
+- 📱 Design Responsivo para todos os dispositivos
+- 🎨 Visualização Profissional de dados
+- ⚡ Performance Otimizada com cache inteligente
+- 📊 Múltiplas Visualizações: barras, linhas, pizza, scatter plots
+- 💾 Upload de Arquivos (CSV, Excel)
 
 ----
 
